@@ -1,4 +1,4 @@
-
+<h3 color = blueviolet>Check out the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">Midjourney Styles and Keywords Reference</a></h3>
 
 <!--
 **willwulfken/willwulfken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
