@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/6042799/193496285-473c1c80-be13-4eec-a037-876bbcf5b6df.png" width="256" />
-<h3 color = blueviolet>Check out the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">Midjourney Styles and Keywords Reference</a></h3>
+    <img src="https://user-images.githubusercontent.com/6042799/193496835-73ee9745-47d2-4311-ad0e-4142edd6b9ba.png" width="320" />
+    <h3 color = blueviolet>Check out the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">Midjourney Styles and Keywords Reference</a></h3>
 </div>
 
 <!--
